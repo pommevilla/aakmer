@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "4eecc9c4d27e3c9321438bc1fdaf717bec5eadf6",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Paul Villanueva",
+      "author_email": "pvillanueva13@gmail.com",
+      "github_username": "pommevilla",
+      "project_name": "aakmer",
+      "project_slug": "aakmer",
+      "package_name": "aakmer",
+      "project_short_description": "Light, fast amino acid kmer counting",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
