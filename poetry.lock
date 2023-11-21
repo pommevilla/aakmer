@@ -656,6 +656,16 @@ MarkupSafe = ">=2.0"
 i18n = ["Babel (>=2.7)"]
 
 [[package]]
+name = "logging"
+version = "0.4.9.6"
+description = "A logging module for Python"
+optional = false
+python-versions = "*"
+files = [
+    {file = "logging-0.4.9.6.tar.gz", hash = "sha256:26f6b50773f085042d301085bd1bf5d9f3735704db9f37c1ce6d8b85c38f2417"},
+]
+
+[[package]]
 name = "markdown"
 version = "3.4.4"
 description = "Python implementation of John Gruber's Markdown."
@@ -1668,4 +1678,4 @@ testing = ["big-O", "flake8 (<5)", "jaraco.functools", "jaraco.itertools", "more
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.7.1, <4.0"
-content-hash = "39ff348309170a670ddc8c002713dbe898d3d1b1422764e32d035de8dec62103"
+content-hash = "79c86e7a19bb425494f2cd615c947c46b2fe00a669513f62a9f09a0e9b4cb8ed"
